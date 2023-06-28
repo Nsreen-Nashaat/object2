@@ -1,0 +1,8 @@
+prefix=/home/nsreen/Documents/Task_4/devel
+
+Name: code
+Description: Description of code
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

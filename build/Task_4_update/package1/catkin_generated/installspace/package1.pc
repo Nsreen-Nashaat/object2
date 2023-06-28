@@ -1,0 +1,8 @@
+prefix=/home/nsreen/Documents/Task_4/install
+
+Name: package1
+Description: Description of package1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
